@@ -10,7 +10,6 @@ public class DemoApplication {
 		System.out.println("NEwbranch commits");
 		System.out.println("giii");
 		System.out.println("Aruna");
-		System.out.println("hip");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
