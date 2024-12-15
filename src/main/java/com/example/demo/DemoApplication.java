@@ -25,6 +25,7 @@ public class DemoApplication {
 		System.out.println("Git");
 		System.out.println("Git Hub");
 		System.out.println("Babu");
+		System.out.println("Jaga");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
