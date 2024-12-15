@@ -21,6 +21,8 @@ public class DemoApplication {
 		System.out.println("Jungle");
 		System.out.println("Nayak");
 		System.out.println("Uma");
+		System.out.println("Uma");
+		System.out.println("Git");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
