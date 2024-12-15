@@ -16,6 +16,7 @@ public class DemoApplication {
 		System.out.println("Bou");
 		System.out.println("Rama");
 		System.out.println("Papi");
+		System.out.println("Jema");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
