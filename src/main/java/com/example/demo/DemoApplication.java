@@ -20,6 +20,13 @@ public class DemoApplication {
 		System.out.println("Bana");
 		System.out.println("Jungle");
 		System.out.println("Nayak");
+		System.out.println("Uma");
+		System.out.println("Uma");
+		System.out.println("Git");
+		System.out.println("Git Hub");
+		System.out.println("Babu");
+		System.out.println("Jaga");
+		System.out.println("Sita");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
