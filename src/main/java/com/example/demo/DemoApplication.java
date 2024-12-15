@@ -20,7 +20,7 @@ public class DemoApplication {
 		System.out.println("Bana");
 		System.out.println("Jungle");
 		System.out.println("Nayak");
-		System.out.println("Maheswar");
+		System.out.println("Uma");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
